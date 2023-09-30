@@ -1,0 +1,90 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: N. Sertac Artan's Homepage
+name: N. Sertac Artan
+email: nartan@nyit.edu 
+description: >- # this means to ignore newlines until "baseurl:"
+  N. Sertac Artan
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+repository: arta-ns/arta-ns.github.io
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+logo: "/assets/images/nyit-logo.png"
+author:
+  name: "N. Sertac Artan"
+  avatar: "/assets/images/sertac.jpg"
+  # bio: "" # Note: Markdown is allowed
+  location: "New York, NY"
+  links:
+    - label: "Artan Lab (CNS)"
+      icon: "fas fa-fw fa-link"
+      url: "https://nyit-cns.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/arta-ns"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/mmistakes"
+
+
+## Minima Theme Config
+# theme: minima
+# github_username: arta-ns
+# linkedin_username: n-sertac-artan-bb747547
+# google_scholar_username: R40hLTYAAAAJ
+# header_pages:
+#   - pages/research.md
+#   - pages/publications.md
+#   - pages/teaching.md
+#   - pages/service.md
+#   - pages/students.md
+#   - pages/contact.md
+### End of Minima config 
+
+# General Setup
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
