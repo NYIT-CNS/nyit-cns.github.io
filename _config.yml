@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: N. Sertac Artan's Homepage
-name: N. Sertac Artan
+title: NYIT-CNS 
+name: CNS
 email: nartan@nyit.edu 
 description: >- # this means to ignore newlines until "baseurl:"
-  N. Sertac Artan
+  Webpage for the Artan (Circuits, Networks, and Systems (CNS)) Lab at NYIT.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-repository: arta-ns/arta-ns.github.io
+repository: NYIT-CNS/nyit-cns.github.io
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: "/assets/images/nyit-logo.png"
 author:
-  name: "N. Sertac Artan"
-  avatar: "/assets/images/sertac.jpg"
+  name: "NYIT CNS"
+  avatar: "/assets/images/cns.jpg"
   # bio: "" # Note: Markdown is allowed
   location: "New York, NY"
   links:
