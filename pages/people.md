@@ -6,7 +6,7 @@ permalink: /people/
 ---
 
 ## Principle Investigator
-{% include image-and-text.html image_path="/assets/images/sertac.jpg" title="N. Sertac Artan" subtitle="Associate Professor of Electrical and Computer Engineering" description="Some more text that will appear to the left of the image." %}
+{% include image-and-text.html image_path="/assets/images/sertac.jpg" title="N. Sertac Artan" subtitle="Associate Professor of Electrical and Computer Engineering" description="[Dr. Artan](https://arta-ns.github.io/)'s research is on network security, circuits and systems for medical devices, and biomedical signal processing" %}
 
  
  

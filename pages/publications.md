@@ -7,6 +7,15 @@ permalink: /publications/
 
 Please, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=R40hLTYAAAAJ&pagesize=80&view_op=list_works) for most up-to-date list of publications.
 
+# Book Chapters
+\[1\]	N. Sertac Artan, “An Overview of Functional Near-Infrared Spectroscopy and Explainable Artificial Intelligence in fNIRS,” in _Explainable AI in Healthcare_, CRC Press, 2023. 50-67.
+
+\[2\]	N. Sertac Artan, R. K. Amineh, “Wireless Power Transfer to Implantable Medical Devices With Multi-Layer Planar Spiral Coils,” in _Emerging Capabilities and Applications of Wireless Power Transfer_, IGI Global, 2018. 203-227.
+
+\[3\]	W. Li, J. Voris, N. Sertac Artan, “Security, Trust, and Privacy for Cloud Computing in Transportation Cyber-Physical Systems,” in _Data Security in Cloud Computing_, The Institution of Engineering and Technology (IET), 2017. 171-197.
+
+\[4\]	N. Sertac Artan, “Signal-Adaptive Analog-to-Digital Converters for ULP wearable and implantable medical devices: A Survey,” in _Design and Modeling of Low Power VLSI Systems_, IGI Global, 2016. 199-228.
+
 # Papers
 
 \[1\] J. Roy _et al._, “Investigating the effect of machine-translation on automated classification of toxic comments,” in _The 8th national workshop for REU research in networking and systems (REUNS)_, 2022.

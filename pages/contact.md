@@ -1,7 +1,6 @@
 ---
 title: "Contact Information"
 layout: single
-author_profile: true
 permalink: /contact/
 ---
 
