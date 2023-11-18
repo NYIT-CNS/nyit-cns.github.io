@@ -5,7 +5,7 @@ classes: wide
 permalink: /positions/ 
 ---
 
-## Fully funded Ph.D. position available for Fall 2024!
+## Fully funded Ph.D. position available for Spring/Fall 2024!
 
 Fully funded Ph.D. position available for Spring/Fall 2024 at New York Institute of Technology (NYIT) New York City Campus in ASIC/FPGA Design of ML/DL Accelerators!  
   
