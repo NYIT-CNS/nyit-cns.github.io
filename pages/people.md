@@ -21,6 +21,9 @@ permalink: /people/
 * Damian Sarjudas 
 * Umar Sow
 * Hadi Khan
+* Bryan Bonilla Garay
+* Devin Alvarez
+* Jason Ham
 
 ## Alumni
 
