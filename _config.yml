@@ -46,6 +46,9 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/mmistakes"
 
+# Turn off links to feeds
+atom_feed:
+  hide: true
 
 ## Minima Theme Config
 # theme: minima
