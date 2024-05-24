@@ -18,105 +18,396 @@ Please, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=R
 
 # Papers
 
-\[1\] J. Roy _et al._, “Investigating the effect of machine-translation on automated classification of toxic comments,” in _The 8th national workshop for REU research in networking and systems (REUNS)_, 2022.
+<span class="csl-left-margin">\[1\]
+</span><span class="csl-right-inline">C. B. Taber, S. Sharma, M. S.
+Raval, S. Senbel, A. Keefe, J. Shah, E. Patterson, J. Nolan, N. Sertac
+Artan, and T. Kaya, “A holistic approach to performance prediction in
+collegiate athletics: Player, team, and conference perspectives,”
+*Scientific Reports*, vol. 14, no. 1, p. 1162, 2024, doi:
+[10.1038/s41598-024-51658-8](https://doi.org/10.1038/s41598-024-51658-8).</span>
 
-\[2\] S. Senbel _et al._, “Impact of Sleep and Training on Game Performance and Injury in Division-1 Women’s Basketball Amidst the Pandemic,” _IEEE Access_, vol. 10, pp. 15516–15527, 2022, doi: [10.1109/ACCESS.2022.3145368](https://doi.org/10.1109/ACCESS.2022.3145368).
+<span class="csl-left-margin">\[2\]
+</span><span class="csl-right-inline">J. K. Nolan, C. Taber, S. Senbel,
+M. S. Raval, N. S. Artan, and T. Kaya, “Effect of COVID-19 on
+performance and recovery of division i women’s basketball players: A
+case study,” *European Journal of Sport Sciences*, vol. 3, no. 2, pp.
+1–8, 2024, doi:
+[10.24018/ejsport.2024.3.2.105](https://doi.org/10.24018/ejsport.2024.3.2.105).</span>
 
-\[3\] K. Sun, N. Sertac Artan, and Z. Dong, “CALC: Calibration for ambient light correction in screen-to-camera visible light communication,” _Results in Optics_, vol. 5, p. 100122, 2021, doi: [https://doi.org/10.1016/j.rio.2021.100122](https://doi.org/10.1016/j.rio.2021.100122).
+<span class="csl-left-margin">\[3\]
+</span><span class="csl-right-inline">J. Roy, S. Suresh, M. Elsayed, R.
+Rocca, Z. Dong, H. Gu, and N. Sertac Artan, “Investigating the effect of
+machine-translation on automated classification of toxic comments,” in
+*The 8th national workshop for REU research in networking and systems
+(REUNS)*, 2022.</span>
 
-\[4\] C. Taber _et al._, “Sleep and physical performance: A case study of collegiate women’s division 1 basketball players,” in _2021 43rd annual international conference of the IEEE engineering in medicine & biology society (EMBC)_, 2021, pp. 6787–6790. doi: [10.1109/EMBC46164.2021.9630820](https://doi.org/10.1109/EMBC46164.2021.9630820).
+<span class="csl-left-margin">\[4\]
+</span><span class="csl-right-inline">S. Senbel, S. Sharma, M. S. Raval,
+C. Taber, J. Nolan, N. Sertac Artan, D. Ezzeddine, and T. Kaya,
+“<span class="nocase">Impact of Sleep and Training on Game Performance
+and Injury in Division-1 Women’s Basketball Amidst the Pandemic</span>,”
+*IEEE Access*, vol. 10, pp. 15516–15527, 2022, doi:
+[10.1109/ACCESS.2022.3145368](https://doi.org/10.1109/ACCESS.2022.3145368).</span>
 
-\[5\] M. Aquino _et al._, “Toxic comment detection: Analyzing the combination of text and emojis,” in _2021 IEEE 18th international conference on mobile ad hoc and smart systems (MASS)_, 2021, pp. 661–662. doi: [10.1109/MASS52906.2021.00097](https://doi.org/10.1109/MASS52906.2021.00097).
+<span class="csl-left-margin">\[5\]
+</span><span class="csl-right-inline">K. Sun, N. Sertac Artan, and Z.
+Dong, “CALC: Calibration for ambient light correction in
+screen-to-camera visible light communication,” *Results in Optics*, vol.
+5, p. 100122, 2021, doi:
+<https://doi.org/10.1016/j.rio.2021.100122>.</span>
 
-\[6\] M. Macesker, R. Morrow, G. W. Too, N. Sertac Artan, Z. Dong, and H. Gu, “Platform for comparative study of focus and retention in virtual reality and online learning,” in _2021 IEEE 18th international conference on mobile ad hoc and smart systems (MASS)_, 2021, pp. 663–664. doi: [10.1109/MASS52906.2021.00098](https://doi.org/10.1109/MASS52906.2021.00098).
+<span class="csl-left-margin">\[6\]
+</span><span class="csl-right-inline">C. Taber, S. Senbel, D. Ezzeddine,
+J. Nolan, A. Ocel, N. Sertac Artan, and T. Kaya, “Sleep and physical
+performance: A case study of collegiate women’s division 1 basketball
+players,” in *2021 43rd annual international conference of the IEEE
+engineering in medicine & biology society (EMBC)*, 2021, pp. 6787–6790.
+doi:
+[10.1109/EMBC46164.2021.9630820](https://doi.org/10.1109/EMBC46164.2021.9630820).</span>
 
-\[7\] H. Gu, N. Sertac Artan, Z. Dong, R. Amineh, and H. Cao, “Course Redesign - Embedding High Impact Practices (HIPS) in STEM Courses,” in _American society for engineering education (ASEE) annual conference_, Virtual, Jun. 2020.
+<span class="csl-left-margin">\[7\]
+</span><span class="csl-right-inline">M. Aquino, Y. Ortiz, A. Rashid, A.
+M. Tumlin, N. Sertac Artan, Z. Dong, and H. Gu, “Toxic comment
+detection: Analyzing the combination of text and emojis,” in *2021 IEEE
+18th international conference on mobile ad hoc and smart systems
+(MASS)*, 2021, pp. 661–662. doi:
+[10.1109/MASS52906.2021.00097](https://doi.org/10.1109/MASS52906.2021.00097).</span>
 
-\[8\] S. Brown _et al._, “Acoustic and Visual Approaches to Adversarial Text Generation for Google Perspective,” in _6th annual conference on computational science & computational intelligence, symposium on artificial intelligence (CSCI-ISAI 2019)_, Las Vegas, NV, USA, Dec. 2019.
+<span class="csl-left-margin">\[8\]
+</span><span class="csl-right-inline">M. Macesker, R. Morrow, G. W. Too,
+N. Sertac Artan, Z. Dong, and H. Gu, “Platform for comparative study of
+focus and retention in virtual reality and online learning,” in *2021
+IEEE 18th international conference on mobile ad hoc and smart systems
+(MASS)*, 2021, pp. 663–664. doi:
+[10.1109/MASS52906.2021.00098](https://doi.org/10.1109/MASS52906.2021.00098).</span>
 
-\[9\] R. Castro and N. Sertac Artan, “Adaptive Sampling for Low-power Wearable and Implantable Devices,” in _The 16th international conference on mobile ad-hoc and sensor systems (IEEE MASS 2019): The sixth national workshop for REU research in networking and systems (2019 6th REU research in n&s)_, Monterey, CA, USA, Nov. 2019.
+<span class="csl-left-margin">\[9\]
+</span><span class="csl-right-inline">H. Gu, N. Sertac Artan, Z. Dong,
+R. Amineh, and H. Cao, “<span class="nocase">Course Redesign - Embedding
+High Impact Practices (HIPS) in STEM Courses</span>,” in *American
+society for engineering education (ASEE) annual conference*, Virtual,
+Jun. 2020.</span>
 
-\[10\] C. Zhou, L. Bryan, E. Wang, N. Sertac Artan, and Z. Dong, “Cognitive Distraction to Improve Cybersickness in Virtual Reality Environment,” in _The 16th international conference on mobile ad-hoc and sensor systems (IEEE MASS 2019): The sixth national workshop for REU research in networking and systems (2019 6th REU research in n&s)_, Monterey, CA, USA, Nov. 2019.
+<span class="csl-left-margin">\[10\]
+</span><span class="csl-right-inline">S. Brown, P. Milkov, S. Patel, Y.
+Z. Looi, E. Jain, Z. Dong, H. Gu, and N. Sertac Artan,
+“<span class="nocase">Acoustic and Visual Approaches to Adversarial Text
+Generation for Google Perspective</span>,” in *6th annual conference on
+computational science & computational intelligence, symposium on
+artificial intelligence (CSCI-ISAI 2019)*, Las Vegas, NV, USA, Dec.
+2019.</span>
 
-\[11\] E. Jain _et al._, “Adversarial Text Generation for Google’s Perspective API,” in _5th annual conf. On computational science & computational intelligence, symposium on artificial intelligence (CSCI-ISAI)_, Las Vegas, NV, Dec. 2018.
+<span class="csl-left-margin">\[11\]
+</span><span class="csl-right-inline">R. Castro and N. Sertac Artan,
+“<span class="nocase">Adaptive Sampling for Low-power Wearable and
+Implantable Devices</span>,” in *The 16th international conference on
+mobile ad-hoc and sensor systems (IEEE MASS 2019): The sixth national
+workshop for REU research in networking and systems (2019 6th REU
+research in n& s)*, Monterey, CA, USA, Nov. 2019.</span>
 
-\[12\] S. Baua, R. K. Amineh, and N. Sertac Artan, “Wireless Power Transfer with Multi-Layer Planar Spiral Coils as Secondary Coils,” in _IEEE MTT-s wireless power transfer conference (WPTC 2018)_, Montreal, CA, Jun. 2018.
+<span class="csl-left-margin">\[12\]
+</span><span class="csl-right-inline">C. Zhou, L. Bryan, E. Wang, N.
+Sertac Artan, and Z. Dong, “<span class="nocase">Cognitive Distraction
+to Improve Cybersickness in Virtual Reality Environment</span>,” in *The
+16th international conference on mobile ad-hoc and sensor systems (IEEE
+MASS 2019): The sixth national workshop for REU research in networking
+and systems (2019 6th REU research in n& s)*, Monterey, CA, USA, Nov.
+2019.</span>
 
-\[13\] M. Zhang _et al._, “Gait Study of Parkinson’s Disease Subjects Using Haptic Cues with A Motorized Walker,” _Sensors_, vol. 18, no. 10, 2018, doi: [10.3390/s18103549](https://doi.org/10.3390/s18103549).
+<span class="csl-left-margin">\[13\]
+</span><span class="csl-right-inline">E. Jain, S. Brown, J. Chen, E.
+Neaton, M. Baidas, Z. Dong, H. Gu, and N. Sertac Artan,
+“<span class="nocase">Adversarial Text Generation for Google’s
+Perspective API</span>,” in *5th annual conf. On computational science &
+computational intelligence, symposium on artificial intelligence
+(CSCI-ISAI)*, Las Vegas, NV, Dec. 2018.</span>
 
-\[14\] Y. C. Chu _et al._, “On-Chip AC-DC Multiple-Power-Supplies Module for Transcutaneously Powered Wearable Medical Devices,” _IEEE Transactions on Industry Applications_, vol. 54, no. 2, pp. 1724–1736, 2018, doi: [10.1109/TIA.2017.2767549](https://doi.org/10.1109/TIA.2017.2767549).
+<span class="csl-left-margin">\[14\]
+</span><span class="csl-right-inline">M. Zhang, N. Sertac Artan, H. Gu,
+Z. Dong, L. B. Ganatra, S. Shermon, and E. Rabin,
+“<span class="nocase">Gait Study of Parkinson’s Disease Subjects Using
+Haptic Cues with A Motorized Walker</span>,” *Sensors*, vol. 18, no. 10,
+2018, doi:
+[10.3390/s18103549](https://doi.org/10.3390/s18103549).</span>
 
-\[15\] M. Stafford, A. Rogers, C. Carver, S. Wu, N. Sertac Artan, and Z. (Cecilia) Dong, “Smartphone-to-Smartphone Screen-Based visible light communication,” in _The 14th international conference on mobile ad-hoc and sensor systems (IEEE MASS 2017): The fourth national workshop for REU research in networking and systems (2017 4th REU research in n&s)_, Orlando, USA, Oct. 2017.
+<span class="csl-left-margin">\[15\]
+</span><span class="csl-right-inline">S. Baua, R. K. Amineh, and N.
+Sertac Artan, “<span class="nocase">Wireless Power Transfer with
+Multi-Layer Planar Spiral Coils as Secondary Coils</span>,” in *IEEE
+MTT-s wireless power transfer conference (WPTC 2018)*, Montreal, CA,
+Jun. 2018.</span>
 
-\[16\] C. Carver, A. Rogers, M. Stafford, S. Wu, N. Sertac Artan, and Z. (Cecilia) Dong, “Indoor localization through visible light characterization using Front-Facing smartphone camera,” in _The 14th international conference on mobile ad-hoc and sensor systems (IEEE MASS 2017): The fourth national workshop for REU research in networking and systems (2017 4th REU research in n&s)_, Orlando, USA, Oct. 2017.
+<span class="csl-left-margin">\[16\]
+</span><span class="csl-right-inline">Y. C. Chu, L. R. Chang-Chien, N.
+Sertac Artan, D. Czarkowski, C. H. Chang, J. Zou, and H. J. Chao,
+“<span class="nocase">On-Chip AC-DC Multiple-Power-Supplies Module for
+Transcutaneously Powered Wearable Medical Devices</span>,” *IEEE
+Transactions on Industry Applications*, vol. 54, no. 2, pp. 1724–1736,
+2018, doi:
+[10.1109/TIA.2017.2767549](https://doi.org/10.1109/TIA.2017.2767549).</span>
 
-\[17\] M. Trumpis _et al._, “A low-cost, scalable, current-sensing digital headstage for high channel count _μ_ECoG,” _Journal of Neural Engineering_, vol. 14, no. 2, p. 026009, 2017.
+<span class="csl-left-margin">\[17\]
+</span><span class="csl-right-inline">M. Stafford, A. Rogers, C. Carver,
+S. Wu, N. Sertac Artan, and Z. (Cecilia) Dong,
+“<span class="nocase">Smartphone-to-Smartphone</span> Screen-Based
+visible light communication,” in *The 14th international conference on
+mobile ad-hoc and sensor systems (IEEE MASS 2017): The fourth national
+workshop for REU research in networking and systems (2017 4th REU
+research in n& s)*, Orlando, USA, Oct. 2017.</span>
 
-\[18\] A. Burton _et al._, “Driver Identification and Authentication with Active Behavior Modeling,” in _The international workshop on green ICT and smart networking (GISN) at the international conference on network and service management (CNSM 2016)_, Montreal, Canada, 2016.
+<span class="csl-left-margin">\[18\]
+</span><span class="csl-right-inline">C. Carver, A. Rogers, M. Stafford,
+S. Wu, N. Sertac Artan, and Z. (Cecilia) Dong, “Indoor localization
+through visible light characterization using Front-Facing smartphone
+camera,” in *The 14th international conference on mobile ad-hoc and
+sensor systems (IEEE MASS 2017): The fourth national workshop for REU
+research in networking and systems (2017 4th REU research in n& s)*,
+Orlando, USA, Oct. 2017.</span>
 
-\[19\] Y.-C. Chu _et al._, “On-chip AC-DC Multiple-Power-Supplies Module for Transcutaneously Powered Wearable Medical Devices,” in _51st annual meeting of the IEEE industry applications society (IAS 2016)_, Portland, OR, 2016.
+<span class="csl-left-margin">\[19\]
+</span><span class="csl-right-inline">M. Trumpis, M. Insanally, J. Zou,
+A. Elsharif, A. Ghomashchi, N. Sertac Artan, R. C. Froemke, and J.
+Viventi, “<span class="nocase">A low-cost, scalable, current-sensing
+digital headstage for high channel count *μ*ECoG</span>,” *Journal of
+Neural Engineering*, vol. 14, no. 2, p. 026009, 2017.</span>
 
-\[20\] N. Sertac Artan, “EEG Analysis via Multiscale Lempel-Ziv Complexity for Seizure Detection,” in _38th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2016)_, Orlando, FL, 2016.
+<span class="csl-left-margin">\[20\]
+</span><span class="csl-right-inline">A. Burton, T. Parikh, S.
+Mascarenhas, J. Zhang, J. Voris, N. Sertac Artan, and W. Li,
+“<span class="nocase">Driver Identification and Authentication with
+Active Behavior Modeling</span>,” in *The international workshop on
+green ICT and smart networking (GISN) at the international conference on
+network and service management (CNSM 2016)*, Montreal, Canada,
+2016.</span>
 
-\[21\] U. K. Pun, H. Gu, Z. Dong, and N. Sertac Artan, “Classification and Visualization Tool for Gait Analysis of Parkinson’s Disease,” in _38th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2016)_, Orlando, FL, 2016.
+<span class="csl-left-margin">\[21\]
+</span><span class="csl-right-inline">Y.-C. Chu, L.-R. Chang-Chien, N.
+Sertac Artan, D. Czarkowski, J. Zou, C.-H. Chang, and H. J. Chao,
+“<span class="nocase">On-chip AC-DC Multiple-Power-Supplies Module for
+Transcutaneously Powered Wearable Medical Devices</span>,” in *51st
+annual meeting of the IEEE industry applications society (IAS 2016)*,
+Portland, OR, 2016.</span>
 
-\[22\] Y.-C. Chu, N. Sertac Artan, D. Czarkowski, H. J. Chao, and L.-R. Chang-Chien, “High-Efficiency and High-Current-Drive Power Converter IC for Wearable Medical Devices,” _IEICE Electronics Express_, vol. 12, no. 24, pp. 1–6, 2015.
+<span class="csl-left-margin">\[22\]
+</span><span class="csl-right-inline">N. Sertac Artan,
+“<span class="nocase">EEG Analysis via Multiscale Lempel-Ziv Complexity
+for Seizure Detection</span>,” in *38th annual international conference
+of the IEEE engineering in medicine and biology society (EMBC 2016)*,
+Orlando, FL, 2016.</span>
 
-\[23\] T. Kim, N. Sertac Artan, I. W. Selesnick, and H. J. Chao, “Seizure Detection Methods Using A Cascade Architecture For Real-Time Implantable Devices,” in _35th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2013)_, Osaka, Japan, Jul. 2013.
+<span class="csl-left-margin">\[23\]
+</span><span class="csl-right-inline">U. K. Pun, H. Gu, Z. Dong, and N.
+Sertac Artan, “<span class="nocase">Classification and Visualization
+Tool for Gait Analysis of Parkinson’s Disease</span>,” in *38th annual
+international conference of the IEEE engineering in medicine and biology
+society (EMBC 2016)*, Orlando, FL, 2016.</span>
 
-\[24\] C.-L. Sha, T. Kim, N. Sertac Artan, and H. J. Chao, “Compression-Ratio-Based Seizure Detection,” in _35th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2013)_, Osaka, Japan, Jul. 2013.
+<span class="csl-left-margin">\[24\]
+</span><span class="csl-right-inline">Y.-C. Chu, N. Sertac Artan, D.
+Czarkowski, H. J. Chao, and L.-R. Chang-Chien,
+“<span class="nocase">High-Efficiency and High-Current-Drive Power
+Converter IC for Wearable Medical Devices</span>,” *IEICE Electronics
+Express*, vol. 12, no. 24, pp. 1–6, 2015.</span>
 
-\[25\] Y.-C. Chu, N. Sertac Artan, D. Czarkowski, and H. J. Chao, “A New Single-Stage AC-DC Converter for Medical Implant Devices,” in _IEEE international symposium on circuits and systems (ISCAS 2013)_, Beijing, China, May 2013.
+<span class="csl-left-margin">\[25\]
+</span><span class="csl-right-inline">M. A. Serhani, N. Sertac Artan,
+and H. J. Chao, “<span class="nocase">Smart End-to-End Infrastructural
+Solution for Monitoring Patients with Neurological Disorders</span>,” in
+*10th IEEE international conference on ubiquitous intelligence and
+computing (UIC 2013)*, Sorrento Peninsula, Italy, 2013.</span>
 
-\[26\] M. A. Serhani, N. Sertac Artan, and H. J. Chao, “Smart End-to-End Infrastructural Solution for Monitoring Patients with Neurological Disorders,” in _10th IEEE international conference on ubiquitous intelligence and computing (UIC 2013)_, Sorrento Peninsula, Italy, 2013.
+<span class="csl-left-margin">\[26\]
+</span><span class="csl-right-inline">K. C.-H. Chiang, N. Sertac Artan,
+and H. J. Chao, “<span class="nocase">A Signal-Specific Approach for
+Reducing SAR-ADC Power Consumption</span>,” in *IEEE biomedical circuits
+and systems conference (BioCAS 2013)*, Rotterdam, Netherlands,
+2013.</span>
 
-\[27\] K. C.-H. Chiang, N. Sertac Artan, and H. J. Chao, “A Signal-Specific Approach for Reducing SAR-ADC Power Consumption,” in _IEEE biomedical circuits and systems conference (BioCAS 2013)_, Rotterdam, Netherlands, 2013.
+<span class="csl-left-margin">\[27\]
+</span><span class="csl-right-inline">T. Kim, N. Sertac Artan, I. W.
+Selesnick, and H. J. Chao, “Seizure Detection Methods Using A Cascade
+Architecture For Real-Time Implantable Devices,” in *35th annual
+international conference of the IEEE engineering in medicine and biology
+society (EMBC 2013)*, Osaka, Japan, Jul. 2013.</span>
 
-\[28\] N. Sertac Artan, X. Xu, and H. J. Chao, “A Low-Cost Reliable Online Noise Level Estimation For Accurate Spike Detection in Extracellular Recordings,” in _IEEE biomedical circuits and systems conference (BioCAS 2012)_, Hsinchu, Taiwan, Nov. 2012.
+<span class="csl-left-margin">\[28\]
+</span><span class="csl-right-inline">C.-L. Sha, T. Kim, N. Sertac
+Artan, and H. J. Chao, “Compression-Ratio-Based Seizure Detection,” in
+*35th annual international conference of the IEEE engineering in
+medicine and biology society (EMBC 2013)*, Osaka, Japan, Jul.
+2013.</span>
 
-\[29\] M. Bando, N. Sertac Artan, and H. J. Chao, “Scalable Lookahead Regular Expression Detection System for Deep Packet Inspection,” _IEEE/ACM Transactions on Networking_, vol. 20, no. 3, pp. 699–714, Jun. 2012.
+<span class="csl-left-margin">\[29\]
+</span><span class="csl-right-inline">Y.-C. Chu, N. Sertac Artan, D.
+Czarkowski, and H. J. Chao, “<span class="nocase">A New Single-Stage
+AC-DC Converter for Medical Implant Devices </span>,” in *IEEE
+international symposium on circuits and systems (ISCAS 2013)*, Beijing,
+China, May 2013.</span>
 
-\[30\] N. Sertac Artan, X. Xu, W. Shi, and H. J. Chao, “Optimizing Analog-To-Digital Converters for Sampling Extracellular Potentials,” in _34th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2012)_, San Diego, CA, 2012.
+<span class="csl-left-margin">\[30\]
+</span><span class="csl-right-inline">N. Sertac Artan, X. Xu, and H. J.
+Chao, “<span class="nocase">A Low-Cost Reliable Online Noise Level
+Estimation For Accurate Spike Detection in Extracellular
+Recordings</span>,” in *IEEE biomedical circuits and systems conference
+(BioCAS 2012)*, Hsinchu, Taiwan, Nov. 2012.</span>
 
-\[31\] N. Sertac Artan, R. Patel, C. Ning, and H. J. Chao, “High-Efficiency Wireless Power Delivery for Medical Implants Using Hybrid Coils,” in _34th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2012)_, San Diego, CA, 2012.
+<span class="csl-left-margin">\[31\]
+</span><span class="csl-right-inline">N. Sertac Artan, X. Xu, W. Shi,
+and H. J. Chao, “<span class="nocase">Optimizing Analog-To-Digital
+Converters for Sampling Extracellular Potentials</span>,” in *34th
+annual international conference of the IEEE engineering in medicine and
+biology society (EMBC 2012)*, San Diego, CA, 2012.</span>
 
-\[32\] T. Kim, N. Sertac Artan, J. Viventi, and H. J. Chao, “Spatiotemporal Compression for Efficient Storage and Transmission of High-Resolution Electrocorticography Data,” in _34th annual international conference of the IEEE engineering in medicine and biology society (EMBC 2012)_, San Diego, CA, 2012.
+<span class="csl-left-margin">\[32\]
+</span><span class="csl-right-inline">N. Sertac Artan, R. Patel, C.
+Ning, and H. J. Chao, “<span class="nocase">High-Efficiency Wireless
+Power Delivery for Medical Implants Using Hybrid Coils</span>,” in *34th
+annual international conference of the IEEE engineering in medicine and
+biology society (EMBC 2012)*, San Diego, CA, 2012.</span>
 
-\[33\] Y.-H. Kao, M. Yang, N. Sertac Artan, and H. J. Chao, “CNOC: High-Radix Clos Network-on-Chip,” _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, vol. 30, no. 12, pp. 1897–1910, Dec. 2011.
+<span class="csl-left-margin">\[33\]
+</span><span class="csl-right-inline">T. Kim, N. Sertac Artan, J.
+Viventi, and H. J. Chao, “<span class="nocase">Spatiotemporal
+Compression for Efficient Storage and Transmission of High-Resolution
+Electrocorticography Data</span>,” in *34th annual international
+conference of the IEEE engineering in medicine and biology society (EMBC
+2012)*, San Diego, CA, 2012.</span>
 
-\[34\] N. Ludvig _et al._, “Transmeningeal Muscimol Can Prevent Focal EEG Seizures in the Rat Neocortex Without Stopping Multineuronal Activity in The Treated Area,” _Brain Research_, vol. 1385, pp. 182–191, Apr. 2011.
+<span class="csl-left-margin">\[34\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, and H.
+J. Chao, “<span class="nocase">Scalable Lookahead Regular Expression
+Detection System for Deep Packet Inspection</span>,” *IEEE/ACM
+Transactions on Networking*, vol. 20, no. 3, pp. 699–714, Jun.
+2012.</span>
 
-\[35\] N. Sertac Artan, X. Li, R. C. Patel, C. Ning, N. Ludvig, and H. J. Chao, “Multi-Layer Coils for Efficient Transcutaneous Power Transfer,” in _33rd annual international conference of the IEEE engineering in medicine and biology society (EMBC 2011)_, Boston, MA, 2011.
+<span class="csl-left-margin">\[35\]
+</span><span class="csl-right-inline">Y.-H. Kao, M. Yang, N. Sertac
+Artan, and H. J. Chao, “<span class="nocase">CNOC: High-Radix Clos
+Network-on-Chip</span>,” *IEEE Transactions on Computer-Aided Design of
+Integrated Circuits and Systems*, vol. 30, no. 12, pp. 1897–1910, Dec.
+2011.</span>
 
-\[36\] M. Bando, N. Sertac Artan, R. Wei, X. Guo, and H. J. Chao, “Range Hash for Regular Expression Pre-Filtering,” in _ACM/IEEE symposium on architectures for networking and communications systems (ANCS 2010)_, La Jolla, CA, Oct. 2010.
+<span class="csl-left-margin">\[36\]
+</span><span class="csl-right-inline">N. Sertac Artan, X. Li, R. C.
+Patel, C. Ning, N. Ludvig, and H. J. Chao,
+“<span class="nocase">Multi-Layer Coils for Efficient Transcutaneous
+Power Transfer</span>,” in *33rd annual international conference of the
+IEEE engineering in medicine and biology society (EMBC 2011)*, Boston,
+MA, 2011.</span>
 
-\[37\] M. Bando, N. Sertac Artan, N. Mehta, Y. Guan, and H. J. Chao, “Hardware Implementation for Scalable Lookahead Regular Expression Detection,” in _17th reconfigurable architectures workshop (RAW 2010) at IEEE international parallel & distributed processing symposium (IPDPS 2010)_, Atlanta, GA, Apr. 2010.
+<span class="csl-left-margin">\[37\]
+</span><span class="csl-right-inline">N. Ludvig, H. M. Tang, N. Sertac
+Artan, P. Mirowski, G. Medveczky, S. L. Baptiste, S. Darisi, R. I.
+Kuzniecky, O. Devinsky, and J. A. French,
+“<span class="nocase">Transmeningeal Muscimol Can Prevent Focal EEG
+Seizures in the Rat Neocortex Without Stopping Multineuronal Activity in
+The Treated Area </span>,” *Brain Research*, vol. 1385, pp. 182–191,
+Apr. 2011.</span>
 
-\[38\] N. Sertac Artan _et al._, “A High-Performance Transcutaneous Battery Charger for Medical Implants,” in _32nd annual international conference of the IEEE engineering in medicine and biology society (EMBC 2010)_, Buenos Aires, Argentina, 2010.
+<span class="csl-left-margin">\[38\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, R. Wei,
+X. Guo, and H. J. Chao, “<span class="nocase">Range Hash for Regular
+Expression Pre-Filtering</span>,” in *ACM/IEEE symposium on
+architectures for networking and communications systems (ANCS 2010)*, La
+Jolla, CA, Oct. 2010.</span>
 
-\[39\] M. Bando, N. Sertac Artan, and H. J. Chao, “LaFA: Lookahead Finite Automata for Scalable Regular Expression Detection,” in _ACM/IEEE symposium on architectures for networking and communications systems (ANCS 2009)_, Princeton, NJ, Oct. 2009.
+<span class="csl-left-margin">\[39\]
+</span><span class="csl-right-inline">N. Sertac Artan, H. Vanjani, G.
+Vashist, Z. Fu, S. Bhakthavatsala, N. Ludvig, G. Medveczky, and H. J.
+Chao, “<span class="nocase">A High-Performance Transcutaneous Battery
+Charger for Medical Implants</span>,” in *32nd annual international
+conference of the IEEE engineering in medicine and biology society (EMBC
+2010)*, Buenos Aires, Argentina, 2010.</span>
 
-\[40\] M. Bando, N. Sertac Artan, and H. J. Chao, “FlashLook: 100-Gbps Hash-Tuned Route Lookup Architecture,” in _Workshop on high performance switching and routing (HPSR 2009)_, Paris, France, Jun. 2009.
+<span class="csl-left-margin">\[40\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, N.
+Mehta, Y. Guan, and H. J. Chao, “<span class="nocase">Hardware
+Implementation for Scalable Lookahead Regular Expression
+Detection</span>,” in *17th reconfigurable architectures workshop (RAW
+2010) at IEEE international parallel & distributed processing symposium
+(IPDPS 2010)*, Atlanta, GA, Apr. 2010.</span>
 
-\[41\] N. Sertac Artan _et al._, “Detecting Abnormally Large-Amplitude Multi-Neuron Bursts Before Focal Neocortical EEG Seizure Onset In Freely Behaving Rats,” _Epilepsia_, vol. 50, p. 391, Mar. 2009.
+<span class="csl-left-margin">\[41\]
+</span><span class="csl-right-inline">N. Sertac Artan, P. Mirowski, H.
+Tang, G. Medveczky, S. Baptiste, H. J. Chao, O. Devinsky, R. Kuzniecky,
+and N. Ludvig, “Detecting Abnormally Large-Amplitude Multi-Neuron Bursts
+Before Focal Neocortical EEG Seizure Onset In Freely Behaving Rats,”
+*Epilepsia*, vol. 50, p. 391, Mar. 2009.</span>
 
-\[42\] N. Ludvig _et al._, “Cellular Electrophysiological Effects of Seizure-Preventing Concentrations of Transmeningeal Muscimol in the Rat Neocortex,” _Epilepsia_, vol. 50, p. 390, 2009.
+<span class="csl-left-margin">\[42\]
+</span><span class="csl-right-inline">N. Ludvig, H. Tang, S. Baptiste,
+G. Medveczky, N. Sertac Artan, H. J. Chao, P. Mirowski, O. Devinsky, J.
+French, and R. Kuzniecky, “<span class="nocase">Cellular
+Electrophysiological Effects of Seizure-Preventing Concentrations of
+Transmeningeal Muscimol in the Rat Neocortex</span>,” *Epilepsia*, vol.
+50, p. 390, 2009.</span>
 
-\[43\] N. Sertac Artan, M. Bando, and H. J. Chao, “Boundary Hash for Memory-Efficient Deep Packet Inspection,” in _IEEE international conference on communications (ICC 2008)_, Beijing, China, May 2008.
+<span class="csl-left-margin">\[43\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, and H.
+J. Chao, “<span class="nocase">LaFA: Lookahead Finite Automata for
+Scalable Regular Expression Detection</span>,” in *ACM/IEEE symposium on
+architectures for networking and communications systems (ANCS 2009)*,
+Princeton, NJ, Oct. 2009.</span>
 
-\[44\] N. Sertac Artan, H. Yuan, and H. J. Chao, “A Dynamic Load-Balanced Hashing Scheme for Networking Applications,” in _IEEE global communications conference (GLOBECOM 2008)_, New Orleans, LA, 2008.
+<span class="csl-left-margin">\[44\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, and H.
+J. Chao, “FlashLook: 100-Gbps Hash-Tuned Route Lookup Architecture,” in
+*Workshop on high performance switching and routing (HPSR 2009)*, Paris,
+France, Jun. 2009.</span>
 
-\[45\] M. Bando, N. Sertac Artan, and H. J. Chao, “Highly Memory-Efficient LogLog Hash for Deep Packet Inspection,” in _IEEE global communications conference (GLOBECOM 2008)_, New Orleans, LA, 2008.
+<span class="csl-left-margin">\[45\]
+</span><span class="csl-right-inline">N. Sertac Artan, H. Yuan, and H.
+J. Chao, “<span class="nocase">A Dynamic Load-Balanced Hashing Scheme
+for Networking Applications</span>,” in *IEEE global communications
+conference (GLOBECOM 2008)*, New Orleans, LA, 2008.</span>
 
-\[46\] N. Sertac Artan, R. Ghosh, Y. Guo, and H. J. Chao, “A 10-Gbps High-Speed Single-Chip Network Intrusion Detection and Prevention System,” in _50th annual IEEE global communications conference (GLOBECOM 2007)_, Washington, DC, Nov. 2007.
+<span class="csl-left-margin">\[46\]
+</span><span class="csl-right-inline">M. Bando, N. Sertac Artan, and H.
+J. Chao, “<span class="nocase">Highly Memory-Efficient LogLog Hash for
+Deep Packet Inspection </span>,” in *IEEE global communications
+conference (GLOBECOM 2008)*, New Orleans, LA, 2008.</span>
 
-\[47\] N. Sertac Artan, K. Sinkar, J. Patel, and H. J. Chao, “Aggregated Bloom Filters For Intrusion Detection And Prevention Hardware,” in _50th annual IEEE global communications conference (GLOBECOM 2007)_, Washington, DC, Nov. 2007.
+<span class="csl-left-margin">\[47\]
+</span><span class="csl-right-inline">N. Sertac Artan, M. Bando, and H.
+J. Chao, “<span class="nocase">Boundary Hash for Memory-Efficient Deep
+Packet Inspection</span>,” in *IEEE international conference on
+communications (ICC 2008)*, Beijing, China, May 2008.</span>
 
-\[48\] N. Sertac Artan and H. J. Chao, “Design and Analysis of a Multi-packet Signature Detection System,” _Int. J. Security and Networks_, vol. 2, no. 1/2, pp. 122–136, Mar. 2007.
+<span class="csl-left-margin">\[48\]
+</span><span class="csl-right-inline">N. Sertac Artan and H. J. Chao,
+“<span class="nocase">Design and Analysis of a Multi-packet Signature
+Detection System</span>,” *Int. J. Security and Networks*, vol. 2, no.
+1/2, pp. 122–136, Mar. 2007.</span>
 
-\[49\] N. Sertac Artan and H. J. Chao, “TriBiCa: Trie Bitmap Content Analyzer for High-Speed Network Intrusion Detection,” in _26th annual IEEE conference on computer communications (INFOCOM 2007)_, 2007, pp. 125–133.
+<span class="csl-left-margin">\[49\]
+</span><span class="csl-right-inline">N. Sertac Artan, R. Ghosh, Y. Guo,
+and H. J. Chao, “<span class="nocase">A 10-Gbps High-Speed Single-Chip
+Network Intrusion Detection and Prevention System</span>,” in *50th
+annual IEEE global communications conference (GLOBECOM 2007)*,
+Washington, DC, Nov. 2007.</span>
 
-\[50\] H. J. Chao, J. S. Park, S. Artan, S. Jiang, and G. Zhang, “TrueWay: A highly scalable multi-plane multi-stage buffered switch,” in _IEEE workshop on high performance switching and routing (HPSR 2005)_, Hong Kong, May 2005.
+<span class="csl-left-margin">\[50\]
+</span><span class="csl-right-inline">N. Sertac Artan, K. Sinkar, J.
+Patel, and H. J. Chao, “Aggregated Bloom Filters For Intrusion Detection
+And Prevention Hardware,” in *50th annual IEEE global communications
+conference (GLOBECOM 2007)*, Washington, DC, Nov. 2007.</span>
 
-\[51\] N. Sertac Artan and H. J. Chao, “Multi-packet Signature Detection using Prefix Bloom Filters,” in _48th annual IEEE global communications conference (GLOBECOM 2005)_, St Louis, MO, 2005.
+<span class="csl-left-margin">\[51\]
+</span><span class="csl-right-inline">N. Sertac Artan and H. J. Chao,
+“<span class="nocase">TriBiCa: Trie Bitmap Content Analyzer for
+High-Speed Network Intrusion Detection</span>,” in *26th annual IEEE
+conference on computer communications (INFOCOM 2007)*, 2007, pp.
+125–133.</span>
 
+<span class="csl-left-margin">\[52\]
+</span><span class="csl-right-inline">N. Sertac Artan and H. J. Chao,
+“<span class="nocase">Multi-packet Signature Detection using Prefix
+Bloom Filters</span>,” in *48th annual IEEE global communications
+conference (GLOBECOM 2005)*, St Louis, MO, 2005.</span>
+
+<span class="csl-left-margin">\[53\]
+</span><span class="csl-right-inline">H. J. Chao, J. S. Park, S. Artan,
+S. Jiang, and G. Zhang, “<span class="nocase">TrueWay: A highly scalable
+multi-plane multi-stage buffered switch</span>,” in *IEEE workshop on
+high performance switching and routing (HPSR 2005)*, Hong Kong, May
+2005.</span>
