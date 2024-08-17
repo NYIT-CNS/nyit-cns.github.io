@@ -17,8 +17,9 @@ Our lab has two current thrusts: 1) Design of efficient circuits to reduce power
 
 <br>
 <h2  style="text-align:center">News</h2>
+- **Aug. 12, 2024:** _Congratulations to [Anwar for presenting](/gallery/) our paper on low-latency stochastic multipliers at the 2024 IEEE 67th International Midwest Symposium on Circuits and Systems ([MWSCAS 2024](https://www.mwscas2024.org/)) [[Link to the paper](/assets/pubs/Hussein2024-MWSCAS-Low_latency_deterministic_multiplier_for_SC.pdf)]_
 - **May 16, 2024:** _Congratulations to Roy for defending his MS Thesis!_
-- **May 15, 2024:** _Our low-latency stochastic multiplier paper is [accepted](https://www.mwscas2024.org/) to the 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS). Congratulations to Anwar!_
+- **May 15, 2024:** _Our low-latency stochastic multipliers paper is [accepted](https://www.mwscas2024.org/) to the 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS). Congratulations to Anwar!_
 - **May 9, 2024:** _Congratulations to Damian, Pavan, and Emilio for presenting their work at NYIT's Undergraduate Research and Entrepreneurship Program (UREP)._
 - **May 2, 2024:** _Our paper on the Effect of COVID-19 on Performance and Recovery of College Athletes is [published](https://www.ej-sport.org/index.php/sport/article/view/105) in European Journal of Sport Sciences. Congratulations to the Sports Analytics Team._
 - **Apr. 30, 2024:** _Our paper on the performance determinants in collegiate athletics is accepted for publication at The International Sports Analytics Conference ([ISACE 2024](https://formal-analysis.com/isace/2024/index.html)). Congratulations to the Sports Analytics Team._
