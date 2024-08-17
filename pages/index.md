@@ -4,13 +4,18 @@
 layout: single
 permalink: /
 ---
-<h1 style="text-align:center">Circuits, Networks and Systems  (CNS)  Lab</h1>
-<h1 style="text-align:center">(Artan Lab)</h1>
+<!-- <h1 style="text-align:center">Circuits, Networks and Systems  (CNS)  Lab</h1> -->
+<!-- <h1 style="text-align:center">(Artan Lab)</h1> -->
 
-![](/assets/images/header.jpg)
+![](/assets/images/header.png)
 
-Our lab has two current thrusts: 1) Design of efficient circuits to reduce power consumption of compute, data storage, and network communication systems for artificial intelligence. 2) To design circuits, and algorithms to help better monitor and study the structures, processes, and communication in the central nervous system.  
+Our lab has two current thrusts: 
+
+1) Design of efficient circuits to reduce power consumption of compute, data storage, and network communication systems for artificial intelligence. 
+
+2) Design circuits, and algorithms to help better monitor and study the structures, processes, and communication in the central nervous system.  
 <br>
+
 <!--<h2  style="text-align:center">We are hiring!</h2>-->
 
 <!--**Fully funded Ph.D. position [available](/positions/) for Spring/Fall 2024!**-->
