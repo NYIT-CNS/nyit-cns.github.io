@@ -22,6 +22,7 @@ Our lab has two current thrusts:
 
 <br>
 <h2  style="text-align:center">News</h2>
+- **Nov. 4, 2024:** _Congratulations to the three undergraduate teams for securing the CoECS Undergraduate Research and Entrepreneurship Program (UREP) mini-grants._
 - **Aug. 12, 2024:** _Congratulations to [Anwar for presenting](/gallery/) our paper on low-latency stochastic multipliers at the 2024 IEEE 67th International Midwest Symposium on Circuits and Systems ([MWSCAS 2024](https://www.mwscas2024.org/)) [[Link to the paper](/assets/pubs/Hussein2024-MWSCAS-Low_latency_deterministic_multiplier_for_SC.pdf)]_
 - **May 16, 2024:** _Congratulations to Roy for defending his MS Thesis!_
 - **May 15, 2024:** _Our low-latency stochastic multipliers paper is [accepted](https://www.mwscas2024.org/) to the 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS). Congratulations to Anwar!_
