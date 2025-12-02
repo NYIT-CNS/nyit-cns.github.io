@@ -14,7 +14,7 @@ permalink: /people/
 
 {% include image-and-text2.html image_path="/assets/images/students/AnwarHussein.jpg" title="Anwar Hussein" subtitle="PhD Student" description="Anwar's research is on stochastic computing." %}
 <br>
-{% include image-and-text2.html image_path="/assets/images/students/empty.jpg" title="Neda Abdollahpour" subtitle="PhD Student" description="Neda's research is on neural signal processing and Machine Learning." %}
+{% include image-and-text2.html image_path="/assets/images/students/NedaAbdollahpour.jpg" title="Neda Abdollahpour" subtitle="PhD Student" description="Neda's research is on neural signal processing and Machine Learning." %}
 <br><br><br>
 {% include image-and-text2.html image_path="/assets/images/students/RoyReshefBirnbaum.jpg" title="Roy Reshef Birnbaum" subtitle="MS Student" description="Roy's research is on hyperdimensional computing."%}
 <br><br><br>
