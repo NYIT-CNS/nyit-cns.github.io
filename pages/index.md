@@ -21,6 +21,7 @@ Our lab has two current thrusts:
 <br>
 <h2  style="text-align:center">News</h2>
 
+- **December 10, 2025:** _Our study on brain region interaction differences between monolingual and bilingual infants, analyzed using fNIRS is [published](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-04/045012/Significant-interactions-in-infant-operculum-regions-when-exposed-to-a/10.1117/1.NPh.12.4.045012.full) in [Neurophotonics](https://www.spiedigitallibrary.org/journals/neurophotonics). Congratulations Neda._
 - **October 14, 2025:** _Our paper on mental fatigue recognition with fNIRS is [published](https://www.frontiersin.org/journals/electronics/articles/10.3389/felec.2025.1668332/full) in [Frontiers in Electronics](https://www.frontiersin.org/journals/electronics). Congratulations Neda._
 - **June 28, 2025:** _Our paper on the predictability of success in weightlifting with ML is [published](https://link.springer.com/chapter/10.1007/978-3-031-96997-3_12) at the International Conference on Computational Science and Its Applications [(ICCSA 2025)](https://iccsa.org/).  Congratulations to the Sports Analytics Team._
 - **June 2, 2025:** _Our review paper on Transformers in fNIRS is [published](https://ieeexplore.ieee.org/abstract/document/11021411) in [IEEE Access](https://ieeeaccess.ieee.org/?gad_source=1&gad_campaignid=19946655056&gbraid=0AAAAApgaRM9_HswhpiE_kIhSfmjx4ZP49&gclid=EAIaIQobChMIsvKLwbzCkAMVUTAIBR0L0AlZEAAYASAAEgL6i_D_BwE). Congratulations Neda, Abhi, and Sai._
